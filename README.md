@@ -12,4 +12,4 @@ Generated.photos Api key available here: https://generated.photos/api. Place it 
 
 Google Maps api key available here: https://developers.google.com/maps/apis-by-platform. Place it int the "index.html" file where is marked with YOUR_MAPS_KEY_HERE
 
-you need to clone all the schemas in the schema directory and create an api with the script and name contained in the file api_handler_script.txt also located in the schemas directory at https://mockaroo.com/.
+you need to clone all the schemas in the schema directory and create an api with the script and name contained in the file api_handler_script.txt also located in the schemas directory at https://mockaroo.com/. Place the mockaroo api key in the "script.js" file where is marked with YOUR_MOCKAROO_API_KEY_HERE
