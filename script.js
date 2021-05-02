@@ -1,4 +1,4 @@
-let generated_photos_key = "YOUR_GENERATED_PHOTOS_KEY_HERE";
+let generated_photos_key = "bwMHFJB07eeWhPrz2X4q8w";
 var mock = [];
 
 function generatePhotosUrl() {
@@ -56,7 +56,7 @@ function fetchData() {
 }
 
 function generateCard(face_data) {
-  let key = "YOUR_MOCKAROO_API_KEY_HERE"; // mockaroo key for api needed
+  let key = "16d6e890"; // mockaroo key for api needed
   let dataUrl = "https://my.api.mockaroo.com/person_generation_schema/";
 
   var gender = face_data.meta.gender[0];
