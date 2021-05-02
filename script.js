@@ -1,4 +1,5 @@
 let generated_photos_key = "bwMHFJB07eeWhPrz2X4q8w";
+let map;
 var mock = [];
 
 function generatePhotosUrl() {
@@ -226,8 +227,6 @@ function toggleErrorVisibility(visible) {
     $("#result").show();
   }
 }
-
-let map;
 
 function initMap(latitude, longitude, title) {
 
